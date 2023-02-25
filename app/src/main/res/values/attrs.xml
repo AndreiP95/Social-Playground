@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ComposableSecondaryButton">
+        <attr name="android:onClick" format="string" />
+        <attr name="android:text" format="string" />
+        <attr name="android:minHeight" format="reference"/>
+        <attr name="android:enabled" format="boolean"/>
+    </declare-styleable>
+</resources>

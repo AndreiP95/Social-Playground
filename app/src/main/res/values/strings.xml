@@ -2,5 +2,6 @@
     <string name="app_name">SocialPlayground</string>
     <string name="first_button_text">First button</string>
     <string name="second_button_text">Second button</string>
+    <string name="default_button_text">OK</string>
 
 </resources>
